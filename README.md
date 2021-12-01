@@ -2,7 +2,7 @@
 
 Code supplied by Phillip Edwards and permission to add it here was given by him to help others to learn how it can be done
 
-It is for demonstration purposes only. 
+It is for demonstration purposes only. And permission was given by Phillip to post them here.
 
 This is what I use with a Nano and PCA9685 modules.
 
